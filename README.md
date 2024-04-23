@@ -69,4 +69,4 @@ This option will exit the program.
 ## Usage
 Upon running the program, a menu will show up. Follow the instructions given to get the information needed.
 
-S. Fabilia (2024)
+<p align="right">S. Fabilia (2024)</p>
