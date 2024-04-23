@@ -8,7 +8,7 @@ This program is Module 1's Capstone Project.
 
 The database consists of username, name, industry, location, following count, average views, rate (per video), and e-mail. Currently, the data is filled with dummy data. All data used in this program are fictional, any similarities from the real world data are not intentional.
 
-A pdf explaining the flowchart of this program is also attached in this git. Feedbacks are highly appreciated.
+A [pdf](https://github.com/fabilia/TikTokerHub/blob/main/InfluencerHub_flowchart.pdf) explaining the flowchart of this program is also attached in this git. Feedbacks are highly appreciated.
 
 ## Features
 This program will allow its users to access the current database, filter the database, add new influencer(s) into it, remove influencer(s), edit the existing data, and compare Cost per View (CPV) between influencers.
